@@ -23,5 +23,6 @@ Labels corresponding to the plant species.
 🛠️ Technologies Used
 
 Programming Language: Python
+
 Libraries: TensorFlow/PyTorch, Scikit-learn, NumPy, Pandas, Matplotlib
 
